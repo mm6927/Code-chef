@@ -1,4 +1,3 @@
-// https://www.codechef.com/problems/BROKENPHONE
 #include <iostream>
 using namespace std;
 int main()
